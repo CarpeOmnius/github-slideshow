@@ -13,7 +13,7 @@ May you discover profound inspiration during your presence here, capable of tran
 - Technical documentation and dissemination to **efficiently reinvest future time**
   
 ### 🎓 Experience
-**Better Than Yours** <sub><sup>@robrosinc Android developer (2023.12 ~ now)</sup></sub>      
+**Better Than Yours** <sub><sup>@robrosinc Software engineer (2023.12 ~ now)</sup></sub>      
 **Kyung Hee Univercity** <sub><sup>Computer Engineering (2019.03 ~ now)</sup></sub>
 
 ### 🌏 Register
