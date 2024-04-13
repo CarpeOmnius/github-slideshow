@@ -1,7 +1,7 @@
-## Hyoseop Song﹒Mihawk
+## Hyoseop Song﹒Hart
 
 ### Where are we
-You are in **Mihawk**'s programming archive as a software pioneer.  
+You are in **Hart**'s programming archive as a software pioneer.  
 I have ambition to build earth an futuristic **efficient technology planet**.  
 May you discover profound inspiration during your presence here, capable of transforming your day.
 
@@ -13,7 +13,7 @@ May you discover profound inspiration during your presence here, capable of tran
 - Technical documentation and dissemination to **efficiently reinvest future time**
   
 ### Experience
-**Better Than Yours** <sub><sup>@robrosinc Software engineer (2023.12 ~ now)</sup></sub>      
+**Better Than Yours** <sub><sup>@robrosinc Software engineer (2023.12 ~ now) [[Play Store]](https://play.google.com/store/apps/details?id=com.robros.ownz)</sup></sub>      
 **Kyung Hee University** <sub><sup>Computer Engineering (2019.03 ~ now)</sup></sub>
 
 ### Contact
