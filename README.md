@@ -1,10 +1,5 @@
 ## Hyoseop Song
 
-### Where are we
-You are in **Hart**'s programming archive as a software pioneer.  
-I have ambition to build earth an futuristic **efficient technology planet**.  
-May you discover profound inspiration during your presence here, capable of transforming your day.
-
 ### Interest
 - **Server Develop with robust architecture** 
 - Customer-to-Customer **(C2C) Product development** starting with ideation
